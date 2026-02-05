@@ -72,9 +72,9 @@
 
 # GitHub - Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> -->
+<!-- </p> -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nandann018-ux&theme=dark&hide_border=false" />
 </p>
