@@ -72,7 +72,7 @@
 
 ---
 
-# GitHub-Stats
+# 🔥 Stats
 
 
 <p align="center">
