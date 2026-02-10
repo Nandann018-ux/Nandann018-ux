@@ -75,9 +75,6 @@
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=dark&hide_border=false&cache_seconds=1"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&theme=dark&cache_seconds=1"/>
-</p>
 
 ---
 
