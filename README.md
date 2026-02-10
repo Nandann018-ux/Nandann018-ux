@@ -6,21 +6,13 @@
 
 ---
 
-# 🚀 Expertise
-
-* **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
-* **Backend:** Node.js, Express.js, OAuth 2.0, API Development
-* **Databases:** MongoDB, MySQL, SQL
-* **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash
-* **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
 </div>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -45,7 +37,7 @@
 
 ---
 
-# 🔥 Stats
+## 🔥 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=dark&hide_border=false"/>
@@ -53,7 +45,7 @@
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=16&theme=react&area=true&order=5" height="300"/>
@@ -61,7 +53,7 @@
 
 ---
 
-# 🛠 Skills
+## 🛠 Skills
 
 🟦 **Frontend**
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
@@ -83,7 +75,7 @@ Data Structures • Prisma ORM • Spreadsheet
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <a href="https://www.instagram.com/_nanndann_/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
