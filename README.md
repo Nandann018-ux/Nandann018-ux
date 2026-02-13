@@ -6,7 +6,7 @@
 
 
 
-## 🛠 Skills
+<h2 align="left">🛠 Skills</h2>
 
 🟦 **Frontend** : 
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
@@ -32,7 +32,7 @@ Data Structures • Prisma ORM • Spreadsheet
 </div>
 
 
-## 💻 Tech Stack
+<h2 align="left">💻 Tech Stack</h2>
 
 <br clear="both">
 
