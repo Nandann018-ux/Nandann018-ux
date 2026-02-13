@@ -103,8 +103,8 @@ Data Structures • Prisma ORM • Spreadsheet
   <a href="https://www.instagram.com/_nanndann_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo"  />
   </a>
-  <a href="mailto:nandanachar18@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="55" alt="gmail logo"  />
-  </a>
+  <a href="mailto:nandanachar18@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
+</a>
 </div>
 
