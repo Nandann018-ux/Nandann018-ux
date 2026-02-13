@@ -33,7 +33,6 @@ Data Structures • Prisma ORM • Spreadsheet
 
 
 <h1 align="left">🧠 Tech Stack</h1>
-
 <br clear="both">
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
