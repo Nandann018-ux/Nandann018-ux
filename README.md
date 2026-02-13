@@ -61,6 +61,20 @@ Data Structures • Prisma ORM • Spreadsheet
 
 ---
 
+## 🔥 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=dark&hide_border=false"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=16&theme=react&area=true&order=5" height="300" />
+</div>
+
 ---
 
 ## 🌐 Connect with Me
