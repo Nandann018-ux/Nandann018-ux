@@ -74,7 +74,8 @@ Data Structures • Prisma ORM • Spreadsheet
 
 ###
 
-## 🔥 Stats
+<br clear="both">
+<h1 align="left">📊 Stats</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=dark&hide_border=false"/>
