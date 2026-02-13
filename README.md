@@ -5,8 +5,9 @@
 </div>
 
 
+---
+<h1 align="left">💻 Tech Stack</h1>
 
-<h2 align="left">🛠 Skills</h2>
 
 🟦 **Frontend** : 
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
