@@ -74,9 +74,10 @@ Data Structures • Prisma ORM • Spreadsheet
 ###
 <br clear="both">
 <h1 align="centre">📊 Stats</h1>
+<div align="center">
 
-<div align ="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nandann018-ux&theme=javascript-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nandan018-ux&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 
