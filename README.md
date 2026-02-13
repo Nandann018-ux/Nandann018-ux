@@ -76,9 +76,10 @@ Data Structures • Prisma ORM • Spreadsheet
 <br clear="both">
 <h1 align="left">📊 Stats</h1>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=dark&hide_border=false"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 
 <br clear="both">
