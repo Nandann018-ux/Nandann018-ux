@@ -5,7 +5,7 @@
 </div>
 
 
-<br clear="both">
+<!-- <br clear="both"> -->
 <h1 align="left">🧩 Skills</h1>
 
 
