@@ -77,7 +77,7 @@ Data Structures • Prisma ORM • Spreadsheet
 <div align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" 
-    height="200" 
+    height="220" 
     alt="streak graph"
   />
 </div>
