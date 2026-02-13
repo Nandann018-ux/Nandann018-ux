@@ -73,7 +73,6 @@ Data Structures • Prisma ORM • Spreadsheet
 </div>
 
 ###
-
 <br clear="both">
 <h1 align="left">📊 Stats</h1>
 
