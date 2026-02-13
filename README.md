@@ -79,7 +79,7 @@ Data Structures • Prisma ORM • Spreadsheet
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
   </a>
@@ -90,6 +90,5 @@ Data Structures • Prisma ORM • Spreadsheet
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="55" alt="gmail logo"  />
   </a>
 </div>
-
 
 ---
