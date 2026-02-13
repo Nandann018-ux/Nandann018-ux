@@ -9,22 +9,22 @@
 <h1 align="left">🛠 Skills</h1>
 
 
-🟦 **Frontend** : 
+💻 **Frontend** : 
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
 
-🟩 **Backend** : 
+🛠️ **Backend** : 
 Node.js • Express.js • API Development • OAuth 2.0
 
-🟧 **Databases** : 
+🗄️ **Databases** : 
 MongoDB • MySQL • SQL
 
-🟪 **Programming** : 
+🐍 **Programming** : 
 Python • Pandas
 
-⬛ **Dev Tools** : 
+🧰 **Dev Tools** : 
 Git & GitHub • Postman • Bash
 
-🔷 **Other** : 
+📦 **Other** : 
 Data Structures • Prisma ORM • Spreadsheet
 
 
