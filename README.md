@@ -84,7 +84,7 @@ Data Structures • Prisma ORM • Spreadsheet
 <br clear="both">
 <h1 align="left">📈 Contribution Graph</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 <br clear="both">
