@@ -20,9 +20,9 @@
 📦 **Other** : Data Structures • Prisma ORM • Spreadsheet
 
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
-</div> -->
+</div>
 
 
 <h1 align="left">🧠 Tech Stack</h1>
