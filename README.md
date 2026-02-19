@@ -9,26 +9,21 @@
 
 💻 **Frontend** : 
 HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
-
 🛠️ **Backend** : 
 Node.js • Express.js • API Development • OAuth 2.0
-
 🗄️ **Databases** : 
 MongoDB • MySQL • SQL
-
 🐍 **Programming** : 
 Python • Pandas
-
 🧰 **Dev Tools** : 
 Git & GitHub • Postman • Bash
-
 📦 **Other** : 
 Data Structures • Prisma ORM • Spreadsheet
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
-</div>
+</div> -->
 
 
 <h1 align="left">🧠 Tech Stack</h1>
@@ -72,12 +67,12 @@ Data Structures • Prisma ORM • Spreadsheet
 </div>
 
 ###
-<br clear="both">
+<!-- <br clear="both">
 <h1 align="left">🔥 Stats</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
 
@@ -87,7 +82,7 @@ Data Structures • Prisma ORM • Spreadsheet
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
-<br clear="both">
+<!-- <br clear="both">
 <h1 align="centre">🌐 Connect with Me</h1>
 
 <div align="left">
@@ -102,5 +97,5 @@ Data Structures • Prisma ORM • Spreadsheet
   <a href="mailto:nandanachar18@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
-</div>
+</div> -->
 
