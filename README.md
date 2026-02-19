@@ -16,6 +16,7 @@
 🐍 **Programming** : Python • Pandas
 
 🧰 **Dev Tools** : Git & GitHub • Postman • Bash
+
 📦 **Other** : Data Structures • Prisma ORM • Spreadsheet
 
 
