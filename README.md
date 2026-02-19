@@ -11,14 +11,12 @@
 
 🛠️ **Backend** : Node.js • Express.js • API Development • OAuth 2.0
 
-🗄️ **Databases** : 
-MongoDB • MySQL • SQL
-🐍 **Programming** : 
-Python • Pandas
-🧰 **Dev Tools** : 
-Git & GitHub • Postman • Bash
-📦 **Other** : 
-Data Structures • Prisma ORM • Spreadsheet
+🗄️ **Databases** : MongoDB • MySQL • SQL
+
+🐍 **Programming** : Python • Pandas
+
+🧰 **Dev Tools** : Git & GitHub • Postman • Bash
+📦 **Other** : Data Structures • Prisma ORM • Spreadsheet
 
 
 <!-- <div align="center">
