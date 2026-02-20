@@ -164,11 +164,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo" />
   </a>
 
-  <a href="mailto:nandanachar18@gmail.com" style="margin: 0 12px;">
+  <a href="mailto:nandanachar18@gmail.com" style="margin: 0 20px 0 12px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
 
-  <a href="https://codeforces.com/profile/Nandynamic" target="_blank" style="margin: 0 12px;">
+  <a href="https://codeforces.com/profile/Nandynamic" target="_blank" style="margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/code-forces.svg" width="55" height="55" alt="codeforces logo" />
   </a>
 </div>
