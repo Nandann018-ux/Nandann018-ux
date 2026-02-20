@@ -169,7 +169,7 @@
 </div>
 <!-- <br clear="both"> -->
 <h2 align="left">🔥 STREAK</h2>
-<br clear="both">
+<!-- <br clear="both"> -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
 </div>
