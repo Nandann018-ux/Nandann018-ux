@@ -149,8 +149,6 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
 </div>
 
-###
-
 <br clear="both">
 <h2 align="left">🌐 SOCIALS</h2>
 <div align="center">
@@ -164,8 +162,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
 </div>
-
-###
 
 <br clear="both">
 <h2 align="left">🔥 STREAK</h2>
