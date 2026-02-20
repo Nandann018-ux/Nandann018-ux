@@ -100,7 +100,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width ='1000' height = '400'/>
 </div>
-<br clear="both">
+<!-- <br clear="both"> -->
 <h2 align="left">💻 TECH STACK</h2>
 <br clear="both">
 <div align="center">
