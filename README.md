@@ -165,6 +165,9 @@
   <a href="mailto:nandanachar18@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
+  <a href="https://codeforces.com/profile/Nandynamic" target="_blank">
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/code-forces.svg" width="55" height="55" alt="codeforces logo"  />
+  </a>
 </div>
 <!-- <br clear="both"> -->
 <h2 align="left">🔥 STREAK</h2>
