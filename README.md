@@ -98,10 +98,8 @@
   </a>
 </div> --> 
 <br clear="both">
-
 <h2 align="left">💻 TECH STACK</h2>
 <br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="10" />
@@ -151,7 +149,6 @@
 ###
 
 <br clear="both">
-
 <h2 align="left">🌐 SOCIALS</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="60" alt="gmail logo"  />
