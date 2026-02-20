@@ -98,7 +98,7 @@
   </a>
 </div> --> 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width ='1200' height = '800'/>
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width ='1200' height = '600'/>
 </div>
 
 <br clear="both">
