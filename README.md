@@ -150,7 +150,7 @@
 
 <br clear="both">
 <h2 align="left">🌐 SOCIALS</h2>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
   </a>
