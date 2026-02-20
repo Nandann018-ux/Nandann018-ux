@@ -149,6 +149,7 @@
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
 </div>
 <!-- <h2 align="left">🛠️ HACKTOBER-25</h2> -->
+<br clear="both">
 <div align="left">
   
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
