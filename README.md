@@ -100,13 +100,10 @@
 
 
 <br clear="both">
-
 <h2 align="left">💻 TECH STACK</h2>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="59" alt="python logo"  />
   <img width="10" />
@@ -154,13 +151,10 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <h2 align="left">🌐 SOCIALS</h2>
 
 ###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -168,25 +162,19 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <h2 align="left">🔥 STREAK</h2>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
 </div>
 
 ###
-
 <h2 align="left">📈 CONTRIBUTION GRAPH</h2>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=40&theme=high-contrast&area=true&order=5&custom_title=Commit%20Graph&point=#FFA500&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
