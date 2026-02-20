@@ -101,49 +101,49 @@
 <h2 align="left">💻 TECH STACK</h2>
 <br clear="both">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="55" alt="jupyter logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="55" alt="markdown logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55" alt="ubuntu logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="googlecloud logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="60" alt="kubernetes logo"  />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55" alt="kubernetes logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="60" alt="tensorflow logo"  />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="55" alt="tensorflow logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="55" alt="xcode logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="60" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
 </div>
 
 ###
