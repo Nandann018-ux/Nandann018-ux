@@ -153,10 +153,8 @@
 <div align="left">
   
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
-
 </div>
-
-<br clear="both">
+<!-- <br clear="both"> -->
 <h2 align="left">🌐 SOCIALS</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
@@ -169,17 +167,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
 </div>
-
-<br clear="both">
+<!-- <br clear="both"> -->
 <h2 align="left">🔥 STREAK</h2>
 <br clear="both">
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
+<!-- <br clear="both"> -->
 <h2 align="left">📈 CONTRIBUTION GRAPH</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=40&theme=high-contrast&area=true&order=5&custom_title=Commit%20Graph&point=#FFA500&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
