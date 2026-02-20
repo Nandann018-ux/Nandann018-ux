@@ -97,86 +97,49 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
 </div> --> 
-
-
-<br clear="both">
 <h2 align="left">💻 TECH STACK</h2>
 
-###
-<br clear="both">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="59" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="59" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="59" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="59" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="59" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="59" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="59" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="59" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="59" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="59" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="59" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="59" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="59" alt="markdown logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="59" alt="ubuntu logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="59" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="59" alt="googlecloud logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="59" alt="kubernetes logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="59" alt="tensorflow logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="59" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="59" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="59" alt="xcode logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="59" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="55" />
+  <img src="https://skillicons.dev/icons?i=html" height="55" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="55" />
+  <img src="https://skillicons.dev/icons?i=md" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55" />
+  <img src="https://skillicons.dev/icons?i=bash" height="55" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="55" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="55" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" />
 </div>
 
-###
-<br clear="both">
 <h2 align="left">🌐 SOCIALS</h2>
 
-###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" />
 </div>
 
-###
-<br clear="both">
 <h2 align="left">🔥 STREAK</h2>
 
-###
-<br clear="both">
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&theme=highcontrast&hide_border=true&border_radius=20" height="280" />
 </div>
 
-###
 <h2 align="left">📈 CONTRIBUTION GRAPH</h2>
 
-###
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=40&theme=high-contrast&area=true&order=5&custom_title=Commit%20Graph&point=#FFA500&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=high-contrast&hide_border=true&hide_title=true" height="250" />
 </div>
-
-###
