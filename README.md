@@ -99,7 +99,7 @@
 </div> --> 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif"/>
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width ='100' height = '200'/>
 </div>
 
 
