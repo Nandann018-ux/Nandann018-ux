@@ -102,7 +102,6 @@
 </div>
 <!-- <br clear="both"> -->
 <h2 align="left">💻 TECH STACK</h2>
-<!-- <br clear="both"> -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
   <img width="10" />
