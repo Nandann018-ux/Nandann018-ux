@@ -97,8 +97,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
   </a>
 </div> --> 
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+!!;Code.+Build.+Repeat.;Open+Source+Contributor.)](https://git.io/typing-svg)
+</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width ='1000' height = '400'/>
