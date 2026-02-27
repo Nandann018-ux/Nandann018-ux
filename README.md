@@ -4,7 +4,6 @@
 
 
 <h1 align="left">🧩 Skills</h1>
-
 💻 **Frontend** : HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
 
 🛠️ **Backend** : Node.js • Express.js • API Development • OAuth 2.0
