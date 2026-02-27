@@ -1,5 +1,4 @@
 <!-- <div align="left">
-
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
 </div>
 
