@@ -99,13 +99,15 @@
 </div> -->
 
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif"/>
-</div> -->
-<!-- <div align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width = "800" height = "400"/>
+</div>
+
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+!!;Code.+Build.+Repeat.;Open+Source+Contributor.)](https://git.io/typing-svg)
-</div> -->
+</div>
+
 <!-- <br clear="both"> -->
 <h2 align="left">💻 TECH STACK</h2>
 <div align="center">
@@ -181,12 +183,9 @@
 <!-- <br clear="both"> -->
 <h2 align="left">🔥 STREAK</h2>
 <!-- <br clear="both"> -->
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
 </div> 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif"/>
-</div>
 
 <!-- <br clear="both"> -->
 <h2 align="left">📈 CONTRIBUTION GRAPH</h2>
