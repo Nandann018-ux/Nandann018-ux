@@ -100,7 +100,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width = "800" height = "400"/>
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width = "850" height = "450"/>
 </div>
 
 <div align="center">
