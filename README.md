@@ -2,7 +2,6 @@
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
 </div>
 
-
 <h1 align="left">🧩 Skills</h1>
 💻 **Frontend** : HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
 
