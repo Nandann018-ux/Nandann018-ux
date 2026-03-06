@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="600" alt="Moon Knight Banner"/>
-  
   <br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1500&color=A9A9A9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code.+Build.+Repeat.;Open+Source+Contributor" alt="Typing SVG" />
   </a>
@@ -21,14 +19,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,github,git,bash,ubuntu,linux,aws,gcp,md&theme=dark&perline=10" alt="Core Tech Stack" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" style="margin: 0 5px;" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" style="margin: 0 5px;" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" style="margin: 0 5px;" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" style="margin: 0 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" style="margin: 0 5px;" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 0 5px;" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 5px;" />
 </p>
 
 ---
@@ -36,11 +33,12 @@
 <h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=dark&hide_border=true&border_radius=5&background=0d1117" height="180" alt="streak graph" style="margin: 0 10px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph&bg_color=0d1117" height="180" alt="activity-graph graph" style="margin: 0 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=dark&hide_border=true&border_radius=5&background=0d1117" alt="streak graph" style="margin-bottom: 10px;" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph&bg_color=0d1117" width="100%" style="max-width: 800px; margin-bottom: 10px;" alt="activity-graph graph" />
+</div>
 
 <div align="center">
   <a href="https://holopin.io/@nandynamic">
