@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="600" alt="Moon Knight Banner"/>
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="800" alt="Moon Knight Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1500&color=A9A9A9&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code.+Build.+Repeat.;Open+Source+Contributor" alt="Typing SVG" />
