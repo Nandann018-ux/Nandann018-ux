@@ -1,192 +1,62 @@
-<!-- <div align="left">
-[![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
-</div>
-
-
-<h1 align="left">🧩 Skills</h1>
-💻 **Frontend** : HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX
-
-🛠️ **Backend** : Node.js • Express.js • API Development • OAuth 2.0
-
-🗄️ **Databases** : MongoDB • MySQL • SQL
-
-🐍 **Programming** : Python • Pandas
-
-🧰 **Dev Tools** : Git & GitHub • Postman • Bash
-
-📦 **Other** : Data Structures • Prisma ORM • Spreadsheet
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
-</div>
-
-<h1 align="left">🧠 Tech Stack</h1>
-<br clear="both">
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-</div>
-
-###
-<!-- <br clear="both">
-<h1 align="left">🔥 Stats</h1>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
-</div> -->
-<!--
-
-###
-<br clear="both">
-<h1 align="left">📈 Contribution Graph</h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###--!>
-<!-- <br clear="both">
-<h1 align="centre">🌐 Connect with Me</h1>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="100%" style="max-width: 850px;" alt="Moon Knight Banner"/>
   
-  <a href="https://www.instagram.com/_nanndann_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo"  />
-  </a>
-  
-  <a href="mailto:nandanachar18@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
-  </a>
-</div> --> 
-<!-- <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+!!;Code.+Build.+Repeat.;Open+Source+Contributor.)](https://git.io/typing-svg)
-</div> -->
+  <br/>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight (1).gif" width = "850" height = "450"/>
-</div>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+!!;Code.+Build.+Repeat.;Open+Source+Contributor.)](https://git.io/typing-svg)
-</div>
-<!-- <br clear="both"> -->
-<h2 align="left">💻 TECH STACK</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="55" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="55" alt="markdown logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55" alt="ubuntu logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="55" alt="googlecloud logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="55" alt="kubernetes logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="55" alt="tensorflow logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="55" alt="xcode logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="55" alt="npm logo"  />
-</div>
-<!-- <h2 align="left">🛠️ HACKTOBER-25</h2> -->
-<br clear="both">
-<div align="left">
-  
-[![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
-</div>
-<!-- <br clear="both"> -->
-<h2 align="left">🌐 SOCIALS</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank" style="margin: 0 12px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo" />
-  </a>
-
-  <a href="https://www.instagram.com/_nanndann_/" target="_blank" style="margin: 0 12px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="67" height="55" alt="instagram logo" />
-  </a>
-
-  <a href="mailto:nandanachar18@gmail.com" style="margin: 0 20px 0 12px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="gmail logo"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/Nandynamic" target="_blank" style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/code-forces.svg" width="55" height="55" alt="codeforces logo" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1200&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+!!;Code.+Build.+Repeat.;Open+Source+Contributor." alt="Typing SVG" />
   </a>
 </div>
-<!-- <br clear="both"> -->
-<h2 align="left">🔥 STREAK</h2>
-<!-- <br clear="both"> -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=30&order=3" height="310" alt="streak graph"  />
-</div> 
 
-<!-- <br clear="both"> -->
-<h2 align="left">📈 CONTRIBUTION GRAPH</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=40&theme=high-contrast&area=true&order=5&custom_title=Commit%20Graph&point=#FFA500&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_nanndann_/" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" alt="instagram" />
+  </a>
+  <a href="mailto:nandanachar18@gmail.com" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail"/>
+  </a>
+  <a href="https://codeforces.com/profile/Nandynamic" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/code-forces.svg" width="40" height="40" alt="codeforces" />
+  </a>
+</div>
+
+---
+
+### 🕸️ About Me
+I'm Nandan, a second-year college student and full-stack developer passionate about building scalable applications. 
+- 🔭 **Currently building:** A custom CLI tool (TypeScript/Node.js) and my personal portfolio website.
+- 💻 **Recent work:** Developed the frontend for a crop disease identification desktop app at a recent hackathon.
+- ⚡ **Interests:** MERN stack, React Native, OOP design patterns, and grinding [LeetCode](https://leetcode.com/nandynamic/).
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nodejs,mongodb,tailwind,github,git,express,md,ubuntu,bash,gcp,linux,aws&perline=10" alt="Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 0 5px;" />
+</p>
+
+---
+
+<h3 align="center">🔥 Stats & Contributions</h3>
+
+<div align="center">
+  <a href="https://holopin.io/@nandynamic">
+    <img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-bottom: 15px;" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph" style="margin: 5px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=10&theme=high-contrast&area=true&order=5&custom_title=Commit%20Graph&point=#FFA500&hide_border=true&hide_title=true" height="220" alt="activity-graph graph" style="margin: 5px;" />
 </div>
