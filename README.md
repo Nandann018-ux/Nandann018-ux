@@ -33,11 +33,11 @@
 <h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=dark&hide_border=true&border_radius=5&background=0d1117" alt="streak graph" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" alt="streak graph" style="margin-bottom: 10px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph&bg_color=0d1117" width="100%" style="max-width: 800px; margin-bottom: 10px;" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-bottom: 10px;" alt="activity-graph graph" />
 </div>
 
 <div align="center">
