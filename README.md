@@ -20,7 +20,15 @@
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,tailwind,python,linux,aws,gcp,git,ubuntu,bash&theme=dark&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,github,git,bash,ubuntu,linux,aws,gcp,md&theme=dark&perline=10" alt="Core Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" style="margin: 0 5px;" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 0 5px;" />
 </p>
 
 ---
