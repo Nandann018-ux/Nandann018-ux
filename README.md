@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats</h3>
+<h3 align="center">🔥 GitHub Stats.</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" alt="streak graph" style="margin-bottom: 10px;" />
