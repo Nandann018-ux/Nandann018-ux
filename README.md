@@ -15,8 +15,7 @@
 
 <div align="center">
   <p>
-    Hi, I'm <b>Nandan</b>. I'm a 2nd-year student diving deep into <b>Full-Stack Development</b>, <b>React Native</b>, and <b>OOP</b>. <br/>
-    Currently building my portfolio and hacking on a crop disease identifier tool! 🚀
+    Hi, I'm <b>Nandan</b>. I'm a 2nd-year student diving deep into <b>Full-Stack Development</b>, <b>React Native</b>, and <b>OOP</b>.
   </p>
 </div>
 
@@ -40,14 +39,7 @@
 <h3 align="center">🔥 Stats & Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" alt="streak graph" style="margin: 0 5px 10px 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandann018-ux&theme=github-dark&hide_border=true&layout=compact&border_radius=5" height="195" alt="top languages" style="margin: 0 5px 10px 5px;" />
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/nandynamic/">
-    <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" style="margin-bottom: 10px; border-radius: 5px;" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" alt="streak graph" style="margin-bottom: 10px;" />
 </div>
 
 <div align="center">
