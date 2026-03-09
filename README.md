@@ -12,6 +12,7 @@
   <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
 </p>
+
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
