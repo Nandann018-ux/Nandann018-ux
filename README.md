@@ -14,9 +14,9 @@
 </p>
 
 <div align="center">
-  <p>
-    Hi, I'm <b>Nandan</b>. I'm a 2nd-year student diving deep into <b>Full-Stack Development</b>, <b>React Native</b>, and <b>OOP</b>.
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+2nd-year+student.;Diving+into+Full-Stack+Development.;Exploring+React+Native+%26+OOP." alt="Intro Typing SVG" />
+  </a>
 </div>
 
 ---
