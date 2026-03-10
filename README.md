@@ -16,7 +16,6 @@
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,github,git,bash,ubuntu,linux,aws,gcp,md&theme=dark&perline=10" alt="Core Tech Stack" />
   <br/>
