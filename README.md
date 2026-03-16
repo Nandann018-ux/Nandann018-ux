@@ -23,6 +23,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,md,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,ubuntu,linux,aws,gcp&theme=dark&perline=10" alt="Core Tech Stack" />
+  
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" style="margin: 5px;" />
