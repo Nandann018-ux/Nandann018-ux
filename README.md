@@ -18,7 +18,9 @@
 * 📱 **Building:** Mobile applications with React Native and designing my personal portfolio website.
 * 🤝 **Open Source:** Contributor to **Axios** and **ShikiJS**; participated in Hacktoberfest.
 * 🎯 **Goals:** Seeking internship opportunities to apply my full-stack and problem-solving skills.
+<!--
 * ⚡ **Fun Fact:** When I'm not coding or grinding competitive programming, I'm usually at the gym focusing on body recomposition or listening to Karan Aujla.
+-->
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
