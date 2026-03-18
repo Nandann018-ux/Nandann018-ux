@@ -32,7 +32,7 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" style="margin: 5px;" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" style="margin: 5px;" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" style="margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="48" alt="npm" style="margin: 5px;"/>
 </p>
 
 <h3 align="center">🔥 Stats & Activity</h3>
