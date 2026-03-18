@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="820" alt="Moon Knight Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+2nd Year+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+2nd-Year+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
   </a>
 </div>
 <p align="center">
