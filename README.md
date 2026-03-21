@@ -37,11 +37,11 @@
 
 <h3 align="center">🔥 Stats & Activity</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=nord&font=Fira%20Code" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=nord&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=dark&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=nord&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
 </div>
 <div align="center">
   <a href="https://holopin.io/@nandynamic">
