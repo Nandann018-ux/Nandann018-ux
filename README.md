@@ -38,7 +38,7 @@
 <h3 align="center">🔥 Stats & Activity</h3>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/nandynamic?theme=tokyonight&font=Fira%20Code" height="195" alt="LeetCode Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=tokyonight&hide_border=true&border_radius=5" height="195" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=tokyonight&hide_border=true&border_radius=5" height="195" alt="GitHub Streak" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 5px;" alt="Activity Graph" />
