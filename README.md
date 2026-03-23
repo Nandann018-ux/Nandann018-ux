@@ -5,23 +5,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=2e3440&label=Profile%20Views" alt="Profile Views" style="margin-top: 5px; margin-bottom: 10px;" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
   <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
   <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=000000&label=Views" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
 * 🌱 **Currently Learning:** AI/ML, Python, and Object-Oriented Programming in TypeScript.
-* 📱 **Building:** Mobile applications with React Native and designing my personal portfolio website.
+* 📱 **Building:** **StepUp** (an offline-first React Native fitness app) and my personal portfolio website.
+* 🚀 **Recent Projects:** Collaborating on **JobSync** (a unified job platform) and **Devcollab** (MERN stack).
 * 🤝 **Open Source:** Contributor to **Axios** and **ShikiJS**; participated in Hacktoberfest.
-* 🎯 **Goals:** Seeking internship opportunities to apply my full-stack and problem-solving skills.
-<!--
-* ⚡ **Fun Fact:** When I'm not coding or grinding competitive programming, I'm usually at the gym focusing on body recomposition or listening to Karan Aujla.
--->
+* 🎯 **Goals:** Seeking internship opportunities to apply my full-stack skills, and preparing for future Master's degree studies.
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
