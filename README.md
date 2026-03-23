@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="800" alt="Moon Knight Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan .;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=2e3440&label=Profile%20Views" alt="Profile Views" style="margin-top: 5px; margin-bottom: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=000000&label=Profile%20Views" alt="Profile Views" style="margin-top: 5px; margin-bottom: 10px;" />
 </div>
 
 <p align="center">
@@ -23,7 +23,7 @@
 * 📱 **Building:** **StepUp** (an offline-first React Native fitness app) and my personal portfolio website.
 * 🚀 **Recent Projects:** Collaborating on **JobSync** (a unified job platform) and **Devcollab** (MERN stack).
 * 🤝 **Open Source:** Contributor to **Axios** and **ShikiJS**; participated in Hacktoberfest.
-* 🎯 **Goals:** Seeking internship opportunities to apply my full-stack skills, and preparing for future Master's degree studies.
+* 🎯 **Goals:** Seeking internship opportunities to apply my full-stack skills.
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
@@ -39,11 +39,11 @@
 
 <h3 align="center">🔥 Stats & Activity</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=nord&font=Fira%20Code" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=nord&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=github-dark&font=Fira%20Code" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=nord&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
 </div>
 <div align="center">
   <a href="https://holopin.io/@nandynamic">
