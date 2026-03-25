@@ -6,14 +6,16 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=88C0D0&labelColor=2E3440&label=Profile%20Views&logo=google-analytics&logoColor=white" alt="Profile Views" style="margin-top: 5px; margin-bottom: 5px;" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%235E81AC.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
   <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%235E81AC.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%235E81AC.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
   <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%235E81AC.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%235E81AC.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=88C0D0&labelColor=2E3440&label=Views" alt="Profile Views" style="margin-top: 5px;" />
 </p>
 
 ---
