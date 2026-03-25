@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="800" alt="Moon Knight Banner"/>
+  <video src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/The_Matrix_Raining_Green_Code_Backdrop_for_OBS_-_Teams_Zoom_calls_in_4k_-_link_to_45mins_ver_below_1440p.mp4" width="800" autoplay loop muted playsinline></video>
   <br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
