@@ -2,20 +2,20 @@
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="800" alt="Moon Knight Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=000000&label=Profile%20Views" alt="Profile Views" style="margin-top: 5px; margin-bottom: 10px;" />
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=BD93F9&labelColor=282A36&label=Profile%20Views" alt="Profile Views" style="margin-top: 5px; margin-bottom: 10px;" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23BD93F9.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23BD93F9.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23BD93F9.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23BD93F9.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23BD93F9.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
 </p>
 
 ### 👨‍💻 About Me
@@ -39,11 +39,11 @@
 
 <h3 align="center">🔥 Stats & Activity</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=github-dark&font=Fira%20Code" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=github-dark&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dracula&font=Fira%20Code" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dracula&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-dark&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=dracula&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 10px;" alt="Activity Graph" />
 </div>
 <div align="center">
   <a href="https://holopin.io/@nandynamic">
