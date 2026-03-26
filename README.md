@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/MoonKnight%20(1).gif" width="800" alt="Moon Knight Banner"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+B.Tech+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;Full-Stack+%26+Open-Source+Dev.;B.Tech+in+AI%2FML+@+NST.;Building+with+Next.js+%26+React+Native." alt="Intro Typing SVG" />
   </a>
 </div>
 
@@ -21,12 +21,12 @@
 ---
 
 ### 👨‍💻 Engineering Profile
-> I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
+> Full-Stack Developer & Open-Source Contributor. Currently a B.Tech student at Newton School of Technology specializing in AI/ML. I am focused on performance optimization, local AI inference, and building robust, cross-platform applications.
 
-* 🧠 **Domain Focus:** Full-Stack Web Development, React Native (Mobile), and Artificial Intelligence.
-* ⚙️ **Current Projects:** Building **StepUp** (an offline-first React Native fitness app) and refining my personal portfolio.
-* 🚀 **Recent Milestones:** Developed the UI for a Crop Disease Identifier hackathon project and collaborated on the **JobSync** platform.
-* 🤝 **Open Source:** Proud contributor to industry-standard tools like **Axios** and **ShikiJS**.
+* 🧠 **Domain Focus:** Full-Stack Web Development, React Native, and Applied AI/ML.
+* ⚙️ **Current Engineering:** Building offline-first applications and cross-platform mobile tools utilizing Next.js, TypeScript, and React Native.
+* 🤝 **Open Source:** Active contributor to major open-source libraries including **Axios** and **ShikiJS**.
+* 🎯 **Goals:** Seeking high-impact internship opportunities to apply my full-stack architecture and problem-solving skills.
 
 ---
 
