@@ -25,7 +25,7 @@
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
 </p>
 
-# <h3 align="center">🛠️ Technical Arsenal</h3>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
   <b>Languages & Core</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,md&theme=light" alt="Languages" /><br/>
