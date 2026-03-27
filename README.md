@@ -17,12 +17,12 @@
 - 🤝 **Open Source:** Proud contributor to industry tools like **Axios** and **ShikiJS**.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=Views" alt="Profile Views" style="margin-right: 15px;" />
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://cdn.simpleicons.org/linkedin/7aa2f7" width="30" style="margin-right: 8px;" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://cdn.simpleicons.org/gmail/7aa2f7" width="30" style="margin-right: 8px;" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://cdn.simpleicons.org/codeforces/7aa2f7" width="30" style="margin-right: 8px;" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://cdn.simpleicons.org/leetcode/7aa2f7" width="30" style="margin-right: 8px;" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://cdn.simpleicons.org/instagram/7aa2f7" width="30" style="margin-right: 8px;" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=7aa2f7&labelColor=1a1b26&label=Views" alt="Profile Views" style="margin-right: 5px;" />
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
 </p>
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
