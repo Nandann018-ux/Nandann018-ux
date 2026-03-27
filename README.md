@@ -1,13 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/bannerGit.png" width="1000" height='800' alt="Moon Knight Banner"/>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nandan.;A+4th-Semester+B.Tech+Student.;Diving+into+Full-Stack+Development.;Exploring+React+Native,+AI%2FML+%26+OOP." alt="Intro Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=0F172A&labelColor=F6F8FA&label=Profile%20Views&logo=google-analytics&logoColor=0F172A" alt="Profile Views" style="margin-top: 5px; margin-bottom: 5px;" />
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/bannerGit.png" width="1000" alt="Banner"/>
 </div>
 
 <p align="center">
@@ -18,15 +10,29 @@
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
 </p>
 
----
+<br/>
 
-### 👨‍💻 Engineering Profile
-> I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
+### 😎 I'm Nandan!
+*Aspiring Full-Stack Developer & AI/ML Enthusiast*
 
-* 🧠 **Domain Focus:** Full-Stack Web Development, React Native (Mobile), and Artificial Intelligence.
-* ⚙️ **Current Projects:** Building **StepUp** (an offline-first React Native fitness app) and refining my personal portfolio.
-* 🚀 **Recent Milestones:** Developed the UI for a Crop Disease Identifier hackathon project and collaborated on the **JobSync** platform.
-* 🤝 **Open Source:** Proud contributor to industry-standard tools like **Axios** and **ShikiJS**.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.</p>
+      <ul>
+        <li>🧠 <b>Domain Focus:</b> Full-Stack Web Development, React Native (Mobile), and Artificial Intelligence.</li>
+        <li>⚙️ <b>Current Projects:</b> Building <b>StepUp</b> (an offline-first React Native fitness app) and refining my personal portfolio.</li>
+        <li>🚀 <b>Recent Milestones:</b> Developed the UI for a Crop Disease Identifier hackathon project and collaborated on the <b>JobSync</b> platform.</li>
+        <li>🤝 <b>Open Source:</b> Proud contributor to industry-standard tools like <b>Axios</b> and <b>ShikiJS</b>.</li>
+      </ul>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=0F172A&labelColor=F6F8FA&label=Profile%20Views" alt="Profile Views" />
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Illustration" width="85%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
