@@ -6,7 +6,7 @@
   <img align="right" width="40%" src="imo.png" alt="Owl Mascot">
 </div>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Nandan !
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Nandan !
 *Aspiring Full-Stack Developer & AI/ML Enthusiast*
 
 > I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
