@@ -17,7 +17,7 @@
 - 🤝 **Open Source:** Proud contributor to industry tools like **Axios** and **ShikiJS**.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=7aa2f7&labelColor=1a1b26&label=Views" alt="Profile Views" style="margin-right: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=bd93f9&labelColor=282a36&label=Views" alt="Profile Views" style="margin-right: 5px;" />
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
   <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
@@ -43,8 +43,8 @@
 
 <h3 align="center">📊 Metrics & Activity</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=tokyonight&font=Fira%20Code" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 5px;" alt="Activity Graph" /><br/>
+  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dracula&font=Fira%20Code" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dracula&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=dracula&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 5px;" alt="Activity Graph" /><br/>
   <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 5px;" /></a>
 </div>
