@@ -12,7 +12,7 @@
 > I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
 
 - 🧠 **Domain Focus:** Full-Stack Web Development, React Native, and Artificial Intelligence.
-- ⚙️ **Current Projects:** Building **StepUp** (an offline-first React Native fitness app).
+- ⚙️ **Current Projects: ** Working on a Mern+ML based project.
 - 🚀 **Recent Milestones:** Developed the UI for a Crop Disease Identifier and collaborated on **JobSync**.
 - 🤝 **Open Source:** Proud contributor to industry tools like **Axios** and **ShikiJS**.
 
