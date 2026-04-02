@@ -17,12 +17,12 @@
 - 🤝 **Open Source:** Proud contributor to industry tools like **Axios** and **ShikiJS**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=000000&labelColor=111111&label=Views" alt="Profile Views" style="margin-left: 5px;" />
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&bust=1" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=5E81AC&labelColor=2E3440&label=Views" alt="Profile Views" style="margin-left: 5px;" />
 </p>
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
@@ -31,20 +31,20 @@
   <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,md&theme=dark" alt="Languages" /><br/>
   <b>Frontend & Mobile</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-  <img src="https://cdn.simpleicons.org/xcode/FFFFFF" height="48" alt="xcode" style="margin: 5px;" /><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" alt="xcode" /><br/>
   <b>Backend, Cloud & DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,ubuntu,linux,aws,gcp&theme=dark" alt="Backend"/>
-  <img src="https://cdn.simpleicons.org/kubernetes/FFFFFF" height="48" alt="kubernetes" style="margin: 5px;" /><br/>
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="48" alt="kubernetes" /><br/>
   <b>AI/ML & Data Science</b><br/>
-  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="48" alt="pandas" style="margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/jupyter/FFFFFF" height="48" alt="jupyter" style="margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FFFFFF" height="48" alt="tensorflow" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" alt="jupyter" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="tensorflow" />
 </div>
 
 <h3 align="center">📊 Metrics & Activity</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=github-dark&font=Fira%20Code" height="160" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&hide_border=true&border_radius=5&background=000000&border=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="160" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&hide_border=true&area=true&custom_title=Commit%20Graph&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff&area_color=000000" width="100%" style="max-width: 800px; margin-top: 5px;" alt="Activity Graph" /><br/>
+  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=nord&font=Fira%20Code" height="160" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=nord&hide_border=true&border_radius=5" height="160" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=nord&hide_border=true&area=true&custom_title=Commit%20Graph" width="100%" style="max-width: 800px; margin-top: 5px;" alt="Activity Graph" /><br/>
   <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 5px;" /></a>
 </div>
