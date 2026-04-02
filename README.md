@@ -22,7 +22,7 @@
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white&bust=1" alt="Codeforces"/></a>
   <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white&bust=1" alt="LeetCode"/></a>
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white&bust=1" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=ffffff&labelColor=000000&label=Views" alt="Profile Views" style="margin-left: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=000000&labelColor=111111&label=Views" alt="Profile Views" style="margin-left: 5px;" />
 </p>
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
