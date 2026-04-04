@@ -14,7 +14,7 @@
 - 🧠 **Domain Focus:** Full-Stack Web Development, React Native, and Artificial Intelligence.
 - ⚙️ **Current Projects:** Working on a Mern+ML based project.
 - 🚀 **Recent Milestones:** Developed the UI for a Crop Disease Identifier and collaborated on **JobSync**.
-- 🤝 **Open Source:** Proud contributor to industry tools like **Axios** and **ShikiJS**.
+- 🤝 **Open Source:** Proud contributor to industry tools like **Axios**,**ShikiJS** and **React-Router**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white&bust=1" alt="LinkedIn"/></a>
