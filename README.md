@@ -36,9 +36,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,ubuntu,linux,aws,gcp&theme=light" alt="Backend"/>
   <img src="https://cdn.simpleicons.org/kubernetes/000000" height="48" alt="kubernetes" /><br/>
   <b>AI/ML & Data Science</b><br/>
-  <img src="https://cdn.simpleicons.org/pandas/000000" height="48" alt="pandas" />
-  <img src="https://cdn.simpleicons.org/jupyter/000000" height="48" alt="jupyter" />
-  <img src="https://cdn.simpleicons.org/tensorflow/000000" height="48" alt="tensorflow" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="48" alt="pandas" />
+  <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="48" alt="jupyter" />
+  <img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="48" alt="tensorflow" />
 </div>
 
 <h3 align="center">📊 Metrics & Activity</h3>
