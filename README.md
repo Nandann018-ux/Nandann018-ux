@@ -11,18 +11,18 @@
 
 > I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
 
-- 🧠 **Domain Focus:** Full-Stack Web Development, React Native, and Artificial Intelligence.
-- ⚙️ **Current Projects:** Working on a Mern+ML based project.
-- 🚀 **Recent Milestones:** Developed the UI for a Crop Disease Identifier and collaborated on **JobSync**.
-- 🤝 **Open Source:** Proud contributor to industry tools like **Axios**, **ShikiJS**, and **React-Router**.
+- **Domain Focus:** Full-Stack Web Development, React Native, and Artificial Intelligence.
+- **Current Projects:** Working on a Mern+ML based project.
+- **Recent Milestones:** Developed the UI for a Crop Disease Identifier and collaborated on **JobSync**.
+- **Open Source:** Proud contributor to industry tools like **Axios**, **ShikiJS**, and **React-Router**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=000000&label=VIEWS" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-ffffff?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-ffffff?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=ffffff&labelColor=000000&label=VIEWS" alt="Profile Views" />
 </p>
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
