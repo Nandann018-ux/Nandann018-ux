@@ -6,7 +6,7 @@
   <img align="right" width="35%" src="imo.png" alt="Owl Mascot">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Nandan.!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Nandan!
 *Aspiring Full-Stack Developer & AI/ML Enthusiast*
 
 > I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
@@ -38,7 +38,7 @@
 <h3 align="left">📊 Metrics & Activity</h3>
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&bg=1e1e2e&title=cba6f7&text=cdd6f4&icon=89b4fa&border=0" height="160" alt="LeetCode Stats" />
-  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nandann018-ux&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=1e1e2e" height="160" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nandann018-ux&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=1e1e2e" height="160" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&hide_border=true&border_radius=5&background=1e1e2e&border=1e1e2e&stroke=cdd6f4&ring=cba6f7&fire=89b4fa&currStreakNum=cdd6f4&currStreakLabel=cba6f7&sideNums=cdd6f4&sideLabels=cdd6f4&dates=cdd6f4" height="160" alt="GitHub Streak" />
 </p>
 
