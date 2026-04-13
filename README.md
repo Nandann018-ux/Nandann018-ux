@@ -43,6 +43,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&hide_border=true&area=true&custom_title=Commit%20Graph&bg_color=1e1e2e&title_color=cba6f7&color=cdd6f4&line=89b4fa&point=cba6f7&area_color=1e1e2e" width="100%" style="max-width: 800px;" alt="Activity Graph" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&theme=high-contrast&area=true&order=5&custom_title=Activity" height="400" width='800' alt="activity-graph graph"  /><br/>
   <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 5px;" /></a>
 </p>
