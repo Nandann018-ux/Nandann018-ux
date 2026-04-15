@@ -10,12 +10,12 @@
 *Aspiring Full-Stack Developer & AI/ML Enthusiast*
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FF7F00" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FF7F00" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=FF7F00" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=FF7F00" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=FF7F00" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=FF7F00&labelColor=000000&label=VIEWS" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FF0000" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=FF0000" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=FF0000" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=FF0000" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=FF0000&labelColor=000000&label=VIEWS" alt="Profile Views" />
 </p>
 
 > I am a 4th-semester B.Tech student majoring in AI/ML, combining a strong foundation in Object-Oriented Programming with practical experience in modern web and mobile ecosystems. Currently seeking internship opportunities to apply my problem-solving skills in high-impact environments.
@@ -33,20 +33,20 @@
       <h3 align="left">💻 Technical Arsenal</h3>
       <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,md,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,ubuntu,linux,aws,gcp&theme=dark&perline=7" alt="Tech Stack" /><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="42" style="margin-top: 8px;" alt="xcode" />
-      <img src="https://cdn.simpleicons.org/kubernetes/FF7F00" height="42" style="margin-top: 8px; margin-left: 4px;" alt="kubernetes" />
-      <img src="https://cdn.simpleicons.org/pandas/FF7F00" height="42" style="margin-top: 8px; margin-left: 4px;" alt="pandas" />
-      <img src="https://cdn.simpleicons.org/jupyter/FF7F00" height="42" style="margin-top: 8px; margin-left: 4px;" alt="jupyter" />
-      <img src="https://cdn.simpleicons.org/tensorflow/FF7F00" height="42" style="margin-top: 8px; margin-left: 4px;" alt="tensorflow" />
+      <img src="https://cdn.simpleicons.org/kubernetes/FF0000" height="42" style="margin-top: 8px; margin-left: 4px;" alt="kubernetes" />
+      <img src="https://cdn.simpleicons.org/pandas/FF0000" height="42" style="margin-top: 8px; margin-left: 4px;" alt="pandas" />
+      <img src="https://cdn.simpleicons.org/jupyter/FF0000" height="42" style="margin-top: 8px; margin-left: 4px;" alt="jupyter" />
+      <img src="https://cdn.simpleicons.org/tensorflow/FF0000" height="42" style="margin-top: 8px; margin-left: 4px;" alt="tensorflow" />
     </td>
     <td width="45%" valign="top">
       <h3 align="left">📊 Metrics</h3>
-      <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=FF7F00&text=ffffff&icon=FF7F00&border=0" height="150" alt="LeetCode Stats" /><br/>
-      <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&hide_border=true&border_radius=5&background=000000&border=000000&stroke=FF7F00&ring=FF7F00&fire=FF7F00&currStreakNum=ffffff&currStreakLabel=FF7F00&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" style="margin-top: 8px;" alt="GitHub Streak" />
+      <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=FF0000&text=ffffff&icon=FF0000&border=0" height="150" alt="LeetCode Stats" /><br/>
+      <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&hide_border=true&border_radius=5&background=000000&border=000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffffff&currStreakLabel=FF0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" style="margin-top: 8px;" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=FF7F00&color=ffffff&line=FF7F00&point=FFFFFF&area_color=000000" width="100%" style="max-width: 900px;" alt="activity-graph graph" /><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=FF0000&color=ffffff&line=FF0000&point=FFFFFF&area_color=000000" width="100%" style="max-width: 900px;" alt="activity-graph graph" /><br/>
   <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 5px;" /></a>
 </p>
