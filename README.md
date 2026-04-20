@@ -7,7 +7,7 @@
 <div align="center">
   <img src="imo.png" width="120" alt="Owl Mascot" style="margin-bottom: 10px;"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Nandan!</h1>
-  <i>Aspiring Full-Stack Developer & AI/ML Enthusiast</i>
+  <i>Aspiring Full-Stack Developer & AI/ML Enthusiast.</i>
 </div>
 
 <p align="center">
