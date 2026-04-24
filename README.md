@@ -50,15 +50,15 @@
 <h3 align="center">📊 Development Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="410" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff&card_width=410" width="410" height="180" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" height="150" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="410" height="180" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="410" height="180" alt="LeetCode Stats" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=000000&border=ffffff" width="100%" style="max-width: 820px; margin-top: 10px;" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=000000&border=ffffff" width="100%" style="max-width: 825px; margin-top: 10px;" alt="Activity Graph" />
 </p>
 
 <p align="center">
