@@ -5,7 +5,7 @@
 <div align="center">
   <img src="imo.png" width="100" alt="Owl Mascot" style="margin-top: 15px;">
   <h1 style="margin-bottom: 5px;">I'm Nandan Acharya</h1>
-  <i>4th-Semester AI/ML B.Tech @ Newton School of Technology | Based in Pune, India 📍</i>
+  <i>4th-Semester AI/ML B.Tech @ Newton School of Technology | Based in Pune, India </i>
 </div>
 
 <p align="center" style="margin-top: 15px;">
