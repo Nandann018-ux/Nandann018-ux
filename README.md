@@ -46,15 +46,33 @@
 </table>
 
 <br/>
-
 <h3 align="center">📊 Development Metrics</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" height="150" alt="LeetCode Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&hide_border=false&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff" height="165" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff" height="165" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="165" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" height="165" alt="LeetCode Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=000000&border=ffffff" width="100%" style="max-width: 830px; margin-top: 10px;" alt="Activity Graph" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=000000&border=ffffff" width="100%" style="max-width: 800px;" alt="Activity Graph" />
+  <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 10px;" /></a>
 </p>
 
 <p align="center">
