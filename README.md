@@ -65,11 +65,3 @@
 <p align="center">
   <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 10px;" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=000000&border=ffffff" width="100%" style="max-width: 825px; margin-top: 10px;" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 10px;" /></a>
-</p>
