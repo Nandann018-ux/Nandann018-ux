@@ -49,7 +49,7 @@
 <h3 align="center">📊 Development Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff&card_width=400" width="400" alt="Top Languages" />
 </div>
 
