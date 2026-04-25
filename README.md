@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/Nandannn018"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=000000&labelColor=ffffff&label=VIEWS" alt="Profile Views" />
 </p>
@@ -49,13 +49,13 @@
 <h3 align="center">📊 Development Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff&card_width=400" width="400" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="400" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="400" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="400" alt="LeetCode Stats" />
 </div>
 
 <p align="center">
