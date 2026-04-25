@@ -49,13 +49,13 @@
 <h3 align="center">📊 Development Metrics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff&card_width=400" width="400" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="400" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="400" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="400" alt="LeetCode Stats" />
 </div>
 
 <p align="center">
