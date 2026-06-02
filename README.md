@@ -1,67 +1,93 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/bannerGit.png" width="1000" alt="Banner"/>
+  <h1>Hi, I'm Nandan Acharya 👋</h1>
+  <p><i>AI/ML B.Tech Student @ Newton School of Technology · Pune, India</i></p>
+
+  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a 4th-semester AI/ML undergraduate combining a strong foundation in Object-Oriented Programming with hands-on experience across the **MERN stack**, **React Native**, and **machine learning**. I'm currently seeking **5th-semester internship opportunities** where I can apply my problem-solving skills to high-impact, real-world products.
+
+- 🧠 **Domains:** Full-Stack Web Development · React Native · AI/ML
+- 🔭 **Building now:** **StepUp** — an offline-first React Native fitness app
+- 🏆 **Recent work:** Engineered **CropID** (desktop AI crop-disease identifier); collaborated on **JobSync**
+- 🤝 **Open source:** Contributor to **Axios**, **Shiki**, and **React Router**
+- 📫 **Reach me:** [nandanachar18@gmail.com](mailto:nandanachar18@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI/ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**DevOps & Cloud**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <!-- <img src="imo.png" width="100" alt="Owl Mascot" style="margin-top: 15px;"> -->
-  <h1 style="margin-bottom: 5px;">I'm Nandan Acharya</h1>
-  <i>4th-Semester AI/ML B.Tech @ Newton School of Technology | Based in Pune, India </i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-<p align="center" style="margin-top: 15px;">
-  <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nandann018-ux&style=for-the-badge&color=000000&labelColor=ffffff&label=VIEWS" alt="Profile Views" />
-</p>
-
-<br/>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top" style="padding-right: 20px;">
-      <h3 align="left">👨‍💻 About & Focus</h3>
-      <p>Combining a strong foundation in Object-Oriented Programming with practical experience in the MERN stack and mobile ecosystems. I am currently seeking 5th-semester internship opportunities to apply my problem-solving skills in high-impact environments.</p>
-      <ul>
-        <li>🧠 <b>Domain:</b> Full-Stack Web Dev, React Native, & AI/ML.</li>
-        <li>⚙️ <b>Current Projects:</b> Building <b>StepUp</b> (Offline-first React Native fitness app).</li>
-        <li>🚀 <b>Recent Milestones:</b> Engineered <b>CropID</b> (Desktop AI crop disease identifier) and collaborated on <b>JobSync</b>.</li>
-        <li>🤝 <b>Open Source:</b> Contributor to <b>Axios</b>, <b>ShikiJS</b>, and <b>React-Router</b>.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3 align="left">💻 Technical Arsenal</h3>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,bash,md,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,ubuntu,linux,aws,gcp&theme=light&perline=7" alt="Tech Stack" /><br/>
-      <div style="margin-top: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="35" alt="xcode" />
-        <img src="https://cdn.simpleicons.org/kubernetes/000000" height="35" alt="kubernetes" style="margin-left: 5px;" />
-        <img src="https://cdn.simpleicons.org/pandas/000000" height="35" alt="pandas" style="margin-left: 5px;" />
-        <img src="https://cdn.simpleicons.org/jupyter/000000" height="35" alt="jupyter" style="margin-left: 5px;" />
-        <img src="https://cdn.simpleicons.org/tensorflow/000000" height="35" alt="tensorflow" style="margin-left: 5px;" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<h3 align="center">📊 Development Metrics</h3>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&custom_title=Nandan's%20GitHub%20Stats&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=false&border_color=ffffff&include_all_commits=true" width="400" alt="GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false&border_color=ffffff&card_width=400" width="400" alt="Top Languages" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=github-compact&hide_border=true&area=true" width="800" alt="Activity Graph"/>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="400" alt="GitHub Streak" />
-  <!-- <img src="https://leetcard.jacoblin.cool/Nandannn018?theme=dark&font=Fira%20Code&bg=000000&title=ffffff&text=ffffff&icon=ffffff&border=ffffff" width="400" alt="LeetCode Stats" /> -->
+---
+
+<div align="center">
+  <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges"/></a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=20&area=true&order=5&custom_title=Activity&bg_color=000000&title_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area_color=222222&border=ffffff" width="805" style="margin-top: 10px;" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <a href="https://holopin.io/@nandynamic"><img src="https://holopin.me/nandynamic" alt="Holopin Badges" style="margin-top: 10px;" /></a>
-</p>
+<div align="center">
+  <sub>⭐ Open to internships, collaborations, and open-source contributions — let's build something great.</sub>
+</div>
