@@ -83,11 +83,8 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandann018-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" alt="Top languages"/>
-
-<br/>
-
 <img height="170" src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak"/>
-<img height="170" src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats"/>
+<!-- <img height="170" src="https://leetcard.jacoblin.cool/nandynamic?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats"/> -->
 
 <br/>
 
