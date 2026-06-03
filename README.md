@@ -3,7 +3,64 @@
   <p><i>AI/ML B.Tech Student @ Newton School of Technology · Pune, India</i></p>
 
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:nandanachar18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?sty<div align="center">
+
+# Nandan Acharya
+
+**AI/ML · Full-Stack · React Native**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandan-acharya-9b952631a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nandanachar18@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nandynamic)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/nandynamic)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nandann018-ux&style=flat-square&color=0A66C2&label=views)](https://github.com/Nandann018-ux)
+
+</div>
+
+---
+
+B.Tech AI/ML student at Newton School of Technology, Pune. I build across the full stack — from MERN web apps to offline-first React Native — and apply ML to real-world problems. Currently seeking **5th-semester internship** opportunities.
+
+- 🔨 **Now:** [StepUp](https://github.com/Nandann018-ux) — offline-first React Native fitness app
+- 🌾 **Past:** CropID (desktop AI crop-disease identifier) · JobSync (collaborative job tracker)
+- 🤝 **OSS:** Contributor to [Axios](https://github.com/axios/axios) · [Shiki](https://github.com/shikijs/shiki) · [React Router](https://github.com/remix-run/react-router)
+
+---
+
+## Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · Bash |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Mobile** | React Native |
+| **Backend** | Node.js · Express |
+| **Databases** | MongoDB · MySQL |
+| **AI / ML** | TensorFlow · Pandas · Jupyter |
+| **DevOps** | Docker · Kubernetes · AWS · GCP · Linux |
+
+---
+
+## GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&layout=compact&theme=github_dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandann018-ux&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Holopin](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
+
+*Open to internships, collaborations, and open-source — [let's connect](mailto:nandanachar18@gmail.com).*
+
+</div>le=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://codeforces.com/profile/Nandynamic"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/nandynamic"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.instagram.com/_nanndann_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
