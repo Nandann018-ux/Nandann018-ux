@@ -44,7 +44,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=60A5FA&line=60A5FA&point=FFFFFF&custom_title=Contribution%20Graph" width="100%" style="max-width: 800px" alt="Contribution graph"/>
 
-  <a href="https://holopin.io/@nandynamic"><img height="40" src="https://holopin.me/nandynamic" alt="Holopin badges"/></a>
+  <a href="https://holopin.io/@nandynamic"><img height="1000" src="https://holopin.me/nandynamic" alt="Holopin badges"/></a>
 
   <br/>
   <sub>⭐ Star a repo · 🤝 Collaborate · 💼 Hire me for internships</sub>
