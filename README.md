@@ -15,7 +15,7 @@
 </div>
 
 ### 👨‍💻 About Me
-**B.Tech AI/ML student** at Newton School of Technology · Bengaluru, India. I build across the **MERN stack**, **React Native**, and **machine learning** — from offline-first mobile apps to on-device AI tools. *Open to 5th-semester internships, collaborations, and meaningful open-source work.*
+**B.Tech AI/ML student** at Newton School of Technology · Pune, India. I build across the **MERN stack**, **React Native**, and **machine learning** — from offline-first mobile apps to on-device AI tools. *Open to 5th-semester internships, collaborations, and meaningful open-source work.*
 - 🎯 **Focus:** Full-stack web · React Native · AI/ML
 - 🔨 **Building:** **StepUp** (offline-first React Native fitness app)
 - 🤝 **Open Source:** [Axios](https://github.com/axios/axios) · [Shiki](https://github.com/shikijs/shiki) · [React Router](https://github.com/remix-run/react-router)
@@ -23,7 +23,8 @@
 ### 🚀 Featured Work
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| [**CropID**](https://github.com/Nandann018-ux/crop-disease-identifier) | Cross-platform desktop app for local leaf disease classification. | `Electron` `React` `ONNX` `TF.js` |
+| [**CropID**](https://github.com/Nandann018-ux/crop-disease-identifier) | Cross-platform desktop app for local leaf disease classification utilizing Swin Transformer V2 and U-Net. | `Electron` `React` `ONNX` `TF.js` |
+| [**ShopSmart**](https://github.com/Nandann018-ux/ShopSmart) | Full-stack e-commerce engine designed to manage concurrency and transaction safety during flash sales. | `MERN` `TypeScript` |
 | [**Chronosapiens**](https://github.com/Nandann018-ux/chronosapiens) | Job portal aggregator — update once, sync listings everywhere. | `MERN` `REST API` |
 | [**EventHub**](https://github.com/Nandann018-ux/EventHub) | Full-stack event discovery and management platform. | `React` `Vite` `Prisma` `TS` |
 
