@@ -16,7 +16,7 @@
 </div>
 
 ### 👨‍💻 About Me
-**B.Tech AI/ML student** at Newton School of Technology · Pune, India. I build across the **MERN stack**, **React Native**, and **machine learning** — from offline-first mobile apps to on-device AI tools. *Open to 5th-semester internships, collaborations, and meaningful open-source work.*
+**B.Tech AI/ML student** at Newton School of Technology · Pune, India. I build across the **MERN stack**, **React Native**, and **machine learning** — from offline-first mobile apps to on-device AI tools. *Open to  internships, collaborations, and meaningful open-source work.*
 - 🎯 **Focus:** Full-stack web · React Native · AI/ML
 - 🔨 **Building:** **StepUp** (offline-first React Native fitness app)
 - 🤝 **Open Source:** [Axios](https://github.com/axios/axios) · [Shiki](https://github.com/shikijs/shiki) · [React Router](https://github.com/remix-run/react-router)
@@ -41,11 +41,8 @@
   <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Nandann018-ux&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA" alt="GitHub stats"/>
 <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nandann018-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA" alt="Top languages"/>
   <img height="160" src="https://streak-stats.demolab.com/?user=Nandann018-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak"/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=60A5FA&line=60A5FA&point=FFFFFF&custom_title=Contribution%20Graph" width="100%" style="max-width: 800px" alt="Contribution graph"/>
-
   <a href="https://holopin.io/@nandynamic"><img height="1000" src="https://holopin.me/nandynamic" alt="Holopin badges"/></a>
 
-  <br/>
   <sub>⭐ Star a repo · 🤝 Collaborate · 💼 Hire me for internships</sub>
 </div>
